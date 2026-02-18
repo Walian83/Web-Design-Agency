@@ -13,15 +13,15 @@ An exercise where I had to develop a simple webpage for a design agency, that's 
 
 <p align="center">
 Bigger screens: <br/>
-<img src="https://i.imgur.com/FdvAHxW.png" height="80%" width="80%" alt="Personal Website Screenshot"/>
+<img src="https://i.imgur.com/FdvAHxW.png" height="80%" width="80%" alt="Web Design Agency Screenshot"/>
 <br />
 
 <p align="center">
 Medium screens: <br/>
-<img src="https://i.imgur.com/t9qwb04.png" height="80%" width="80%" alt="Personal Website Screenshot"/>
+<img src="https://i.imgur.com/t9qwb04.png" height="80%" width="80%" alt="Web Design Agency Screenshot"/>
 <br />
 
 <p align="center">
 Smaller screens: <br/>
-<img src="https://i.imgur.com/0YbQmgJ.png" height="80%" width="80%" alt="Personal Website Screenshot"/>
+<img src="https://i.imgur.com/6UIvL62.png" height="80%" width="80%" alt="Web Design Agency Screenshot"/>
 <br />
