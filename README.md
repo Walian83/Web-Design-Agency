@@ -1,4 +1,4 @@
-<h1>Web Design Agency</h1>
+<h1>Web Design Agency - Exercise</h1>
 
 <h2>Description</h2>
 An exercise where I had to develop a simple, responsive webpage for a web design agency.
