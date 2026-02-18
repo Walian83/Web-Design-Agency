@@ -1,7 +1,7 @@
 <h1>Web Design Agency</h1>
 
 <h2>Description</h2>
-An exercise where I had to develop a simple webpage for a design agency, that's responsive.
+An exercise where I had to develop a simple, responsive webpage for a web design agency.
 <br />
 
 <h2>Languages and Utilities Used</h2>
